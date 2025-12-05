@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amaewhule Sobulachi
-- 👀 I’m interested in backend programming and frontend programming languages
+- 👀 I’m interested in Mobile development and frontend development languages
 - 🌱 I’m currently learning Markup languages and Javascript
 - 💞️ I’m looking to collaborate on frontend related projects
 - 📫 How to reach me: X > SobyVYP17, Instagram > sob.ulachi 
